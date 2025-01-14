@@ -25,5 +25,3 @@ Random Forest is the most effective model for income classification, emphasizing
 - Increase dataset diversity for better generalization.
 - Optimize computational efficiency through dimensionality reduction.
 
-## License
-This project is licensed under the MIT License.
